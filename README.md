@@ -101,7 +101,7 @@ All development happens in the [Open Y Drupal 8 installation profile](https://gi
 ```
 
 4. Run `composer update` to update packages
-5. Add and commits changes in `docroot/profiles/contrib/openy`. Now it should be pointed to your fork.
+5. Add and commit changes in `docroot/profiles/contrib/openy`. Now it should be pointed to your fork.
 
 # Directory structure
 | Directory | Purpose |
